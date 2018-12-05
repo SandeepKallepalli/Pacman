@@ -1,0 +1,33 @@
+Game Controls:
+    Up Arrow - jump
+    Left Arrow - Move Left
+    Right Arrow - Move Right
+
+    W - Pan up
+    A - Pan left
+    S - Pan down
+    D - Pan Right
+
+    Mouse Scroll - Zoom In/Out
+
+There are Balls which are enemies moving from left to right at different speeds and sizes.
+
+Some Balls have an inclined plane attached to it . If the player fall on it then the slope ball is
+destroyed and player is projected along the normal of the plane.
+
+There will be pond filled with water so that when the ball falls on the pond it goes inside
+and can't jump unless it gets ground support.
+
+It eventually drifts to the lowest point of the pond following circlular path.
+
+After 1st level i.e in the 2nd level then appears the porcupine and the trampoline.
+If u step on the porcupine then the player dies i.e no.of lives decreases.There are 3 lives in total.
+
+In 3rd level the magnet appears for small amount of time and again appears for every level further.
+Since the player is metal  it will experience a accerlation towards magnet.
+
+Bonus-
+    I have printed the Score, Level and Lives of the player on the screen using 7 segment Lines.
+    I also implemented the zoom in/out using mouse scroll
+    I move the porcupine as if it moves towards player.
+    i.e it always moves towards player to kill it.
