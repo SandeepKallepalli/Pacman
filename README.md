@@ -39,6 +39,7 @@ i.e it always moves towards player to kill it.
 # How to run the code :
 
 ## In Terminal:
+    mkdir build
     cd build
     cmake ..
     make
